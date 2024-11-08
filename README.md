@@ -1,3 +1,5 @@
+# 🎯 Proyecto Angular: Lista de Metas (Bucket List)
+
 # 📋 Descripción
 Este proyecto es una aplicación web desarrollada con Angular que permite a los usuarios gestionar una lista de metas personales (conocida como "Bucket List"). La aplicación cuenta con una interfaz sencilla que facilita a los usuarios agregar, visualizar y eliminar metas que desean alcanzar en su vida.
 
