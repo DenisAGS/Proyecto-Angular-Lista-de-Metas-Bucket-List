@@ -1,27 +1,16 @@
-# Ng6
+# Descrición
+Este proyecto es una aplicación web desarrollada con Angular que permite a los usuarios gestionar una lista de metas personales (conocida como "Bucket List"). La aplicación cuenta con una interfaz sencilla que facilita a los usuarios agregar, visualizar y eliminar metas que desean alcanzar en su vida.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
+# 🚀 Características
+* Gestión de metas personales: Permite a los usuarios añadir metas a su lista.
+* Interactividad: Los usuarios pueden hacer clic en una meta para eliminarla de la lista.
+* Enrutamiento: Navegación sencilla entre diferentes secciones de la aplicación (Home y About).
+* Animaciones: Efectos visuales al agregar o eliminar metas.
+* Responsive Design: La aplicación se adapta a diferentes tamaños de pantalla.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# 🧑‍💻 Tecnologías Utilizadas
+* Angular
+* TypeScript
+* SCSS
+* CSS
+* HTML
